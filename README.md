@@ -36,6 +36,8 @@ The same is displayed on the LCD saying
                     “CORRECT PASSWORD”
 If the password is incorrect the LCD will display saying “WRONG PASSWORD”.
 The user is given an option again to loch the system again.
+# Circuit Daigram
+![Alt text](/Users/soumyakatagihalli/Desktop/hey.png "Optional title")
 
 # Conclusion:
 Advantages of Password Based Door Lock System
